@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?> <!-- -*- nxml -*- -->
+
+<table border="4" >
+<tr> <td colspan="4" align="center" bgcolor="silver">Short-Form Assessment of Compliance with the Guidelines issued by the Financial Services Board in Circular PF 130 and Calculation of Loading to be applied to the Basic Indemnity Sum Assured</td> </tr>
+<tr> <td>Name of Fund:{{FundName}}</td><td colspan="3">Effective date of data:{{EffectiveDate}}</td> </tr>
+<tr> <td>Guideline </td><td>Compliance </td><td>Weighting </td><td>Loading</td> </tr>
+<tr> <td>Governance Structure, Duties and Obligations </td><td>{{ob7}} </td><td>{{ob10}} </td><td>{{tb3}}</td> </tr>
+<tr> <td>Composition and Competency </td><td>{{ob8}} </td><td>{{ob11}} </td><td>{{tb4}}</td> </tr>
+<tr> <td>Orientation and Education </td><td>{{ob9}} </td><td>{{ob12}} </td><td>{{tb5}}</td> </tr>
+<tr> <td>Assessment and Code of Conduct Review </td><td>{{ob13}} </td><td>{{ob16}} </td><td>{{tb6}}</td> </tr>
+<tr> <td>Internal Controls and Governance Mechanisms </td><td>{{ob13}} </td><td>{{ob17}} </td><td>{{tb7}}</td> </tr>
+<tr> <td>Expert Advisors Accredited and Independent </td><td>{{ob15}} </td><td>{{ob18}} </td><td>{{tb8}}</td> </tr>
+<tr> <td>Risk Management Policies and Procedures </td><td>{{ob19}} </td><td>{{ob22}} </td><td>{{tb9}}</td> </tr>
+<tr> <td>Investment Policies and Procedures </td><td>{{ob20}} </td><td>{{ob23}} </td><td>{{tb10}}</td> </tr>
+<tr> <td>Stakeholder Relationships, Member Communication and Access to Information </td><td>{{ob21}} </td><td>{{ob24}} </td><td>{{tb11}}</td> </tr>
+<tr bgcolor="silver"> <td>Total loading to applied to basic recommended sum assured </td><td colspan="3">{{tb12}} </td> </tr>
+<tr> <td>Completed by: {{UserName}} </td><td colspan="3">Date: {{Date}} </td> </tr>
+</table>

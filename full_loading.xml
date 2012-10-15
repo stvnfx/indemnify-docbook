@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> <!-- -*- nxml -*- -->
+
+<table border="4" >
+<tr> <td colspan="4" align="center" bgcolor="silver">Assessment of Compliance with the Guidelines issued by the Financial Services Board in Circular Of loading to be applied to the Basic Indemnity Sum Assured</td> </tr>
+<tr> <td>Name of Fund:{{FundName}}</td><td colspan="3">Effective date of data:{{EffectiveDate}}</td> </tr>
+<tr> <td>Guideline </td><td>Compliance </td><td>Weighting </td><td>Loading</td> </tr>
+<tr> <td colspan="4">Board Governance Structure </td> </tr>
+<tr> <td>Code of conduct for the board documented and monitored </td><td>{{cb1}} </td><td>{{cb2}} </td><td>{{tb1}}</td> </tr>
+<tr> <td>Acceptance of duties and obligations form signed by each board member</td><td>{{cb3}} </td><td>{{cb4}} </td><td>{{tb2}}</td> </tr>
+<tr> <td>Conflicts of interest-Declaration of financial and other interests completed annually by board</td><td>{{cb5}} </td><td>{{cb6}} </td><td>{{tb3}}</td> </tr>
+<tr> <td colspan="4">Board Composition and Competency </td> </tr>
+<tr> <td>Recommended percentage of independent board members appointed (50%) </td><td>{{cb7}} </td><td>{{cb8}} </td><td>{{tb4}}</td> </tr>
+<tr> <td>Credentials of independent board members verified with regulatory authorities </td><td>{{cb9}} </td><td>{{cb10}} </td><td>{{tb5}}</td> </tr>
+<tr> <td>Sub-committees appointed to advise board on risks and controls</td><td>{{cb11}} </td><td>{{cb12}} </td><td>{{tb6}}</td> </tr>
+<tr> <td colspan="4">Board Orientation and Education </td> </tr>
+<tr> <td>Formal induction training programme in place for new board members </td><td>{{cb13}} </td><td>{{cb14}} </td><td>{{tb7}}</td> </tr>
+<tr> <td>Formal ongoing education programme in place for board members </td><td>{{cb15}} </td><td>{{cb16}} </td><td>{{tb8}}</td> </tr>
+<tr> <td colspan="4">Board Assessment and Breach of Code of Conduct </td> </tr>
+<tr> <td>Formal annual performance appraisal in place for the board, the principal officer and sub-committees </td><td>{{cb17}} </td><td>{{cb18}} </td><td>{{tb9}}</td> </tr>
+<tr> <td>Breach of Code of Conduct procedure in place </td><td>{{cb19}} </td><td>{{cb20}} </td><td>{{tb10}}</td> </tr>
+<tr> <td>Internal Control and Governance Mechanisms </td> </tr>
+<tr> <td>Internal controls and procedures clearly documented and monitored </td><td>{{cb21}} </td><td>{{cb22}} </td><td>{{tb11}}</td> </tr>
+<tr> <td>Third party service provider service level agreements signed and monitored </td><td>{{cb23}} </td><td>{{cb24}} </td><td>{{tb12}}</td> </tr>
+<tr> <td>Regular reviews of services, fees and operational costs of the Fund </td><td>{{cb25}} </td><td>{{cb26}} </td><td>{{tb13}}</td> </tr>
+<tr> <td>Information systems and security policies monitored and reviewed </td><td>{{cb27}} </td><td>{{cb28}} </td><td>{{tb14}}</td> </tr>
+<tr> <td>Actual, potential or perceived conflicts of interest monitored </td><td>{{cb29}} </td><td>{{cb30}} </td><td>{{tb15}}</td> </tr>
+<tr> <td>Regular reviews of compliance with regulatory and statutory requirements </td><td>{{cb31}} </td><td>{{cb32}} </td><td>{{tb16}}</td> </tr>
+<tr> <td>Expert Advisors </td> </tr>
+<tr> <td>Professional advisors suitably accredited </td><td>{{cb33}} </td><td>{{cb34}} </td><td>{{tb17}}</td> </tr>
+<tr> <td>Mechanisms in place to ensure expert advice is independently given </td><td>{{cb35}} </td><td>{{cb36}} </td><td>{{tb18}}</td> </tr>
+<tr> <td>Expert advisors appointed directly by the board </td><td>{{cb37}} </td><td>{{cb38}} </td><td>{{tb19}}</td> </tr>
+<tr> <td>Risk Management </td> </tr>
+<tr> <td>Risk management policy documented and reviewed annually </td><td>{{cb39}} </td><td>{{cb40}} </td><td>{{tb20}}</td> </tr>
+<tr> <td>Fidelity cover in place to indemnify fund </td><td>{{cb41}} </td><td>{{cb42}} </td><td>{{tb21}}</td> </tr>
+<tr> <td>Personal Indemnity cover in place to indemnify board members </td><td>{{cb43}} </td><td>{{cb44}} </td><td>{{tb22}}</td> </tr>
+<tr> <td>Third party service providers have professional indemnity and  fidelity guarantee insurance cover </td><td>{{cb45}} </td><td>{{cb46}} </td><td>{{tb23}}</td> </tr>
+<tr> <td>Investment Performance of the Fund Assets </td> </tr>
+<tr> <td>Clearly defined mandates agreed between the board and investment managers </td><td>{{cb47}} </td><td>{{cb48}} </td><td>{{tb24}}</td> </tr>
+<tr> <td>Investment Policy Statement documented, communicated to stakeholders and reviewed annually </td><td>{{cb49}} </td><td>{{cb50}} </td><td>{{tb25}}</td> </tr>
+<tr> <td>Investment portfolios regularly reviewed by board to ensure they are appropriate for the membership profile </td><td>{{cb53}} </td><td>{{cb54}} </td><td>{{tb27}}</td> </tr>
+<tr> <td>Procedures documented and followed ensuring rights of members are protected when assets are transferred </td><td>{{cb55}} </td><td>{{cb56}} </td><td>{{tb28}}</td> </tr>
+<tr> <td>Stakeholder Relationships, Communication and Access to Information </td> </tr>
+<tr> <td>Policy in place to ensure confidentiality and ownership of information </td><td>{{cb57}} </td><td>{{cb58}} </td><td>{{tb29}}</td> </tr>
+<tr> <td>Communication policy  in place to ensure members and beneficiaries have access to appropriate information </td><td>{{cb59}} </td><td>{{cb60}} </td><td>{{tb30}}</td> </tr>
+<tr> <td>Members and Beneficiaries effectively communicated to and rights protected </td><td>{{cb66}} </td><td>{{cb69}} </td><td>{{tb33}}</td> </tr>
+<tr> <td>Relationship between the Board and the Employer and the Sponsor is independent </td><td>{{cb67}} </td><td>{{cb68}} </td><td>{{tb34}}</td> </tr>
+<tr> <td>Policy in place for appointment, communication and monitoring of Service Providers </td><td>{{cb70}} </td><td>{{cb71}} </td><td>{{tb35}}</td> </tr>
+<tr> <td>Requirements of Regulatory Authority complied with and queries dealt with expiditiously </td><td>{{cb72}} </td><td>{{cb73}} </td><td>{{tb36}}</td> </tr>
+<tr bgcolor="silver"> <td>Total loading to applied to basic recommended sum assured </td><td colspan="3">{{tb31}} </td> </tr>
+<tr> <td>Completed by: {{UserName}} </td><td colspan="3">Date: {{Date}} </td> </tr>
+</table>
