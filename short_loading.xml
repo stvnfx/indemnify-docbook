@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> <!-- -*- nxml -*- -->
 
+<article>
 <table border="4" >
 <tr> <td colspan="4" align="center" bgcolor="silver">Short-Form Assessment of Compliance with the Guidelines issued by the Financial Services Board in Circular PF 130 and Calculation of Loading to be applied to the Basic Indemnity Sum Assured</td> </tr>
 <tr> <td>Name of Fund:{{FundName}}</td><td colspan="3">Effective date of data:{{EffectiveDate}}</td> </tr>
@@ -16,3 +17,4 @@
 <tr bgcolor="silver"> <td>Total loading to applied to basic recommended sum assured </td><td colspan="3">{{tb12}} </td> </tr>
 <tr> <td>Completed by: {{UserName}} </td><td colspan="3">Date: {{Date}} </td> </tr>
 </table>
+</article>
