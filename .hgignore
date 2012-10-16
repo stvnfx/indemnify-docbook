@@ -1,0 +1,6 @@
+syntax: glob
+
+#Vim temp swap files
+.*.swp
+
+*.*~
